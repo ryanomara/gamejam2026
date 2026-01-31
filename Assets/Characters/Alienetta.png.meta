@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 1ec0d98e989e46640af2062ee6a7d732
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -82807372151484776
+    second: Alienetta_0
+  - first:
+      213: -2815883648198148171
+    second: Alienetta_1
+  - first:
+      213: -5563715377818975800
+    second: Alienetta_2
+  - first:
+      213: -1102632867696000168
+    second: Alienetta_3
+  - first:
+      213: 8490147683845119194
+    second: Alienetta_4
+  - first:
+      213: 4294842984673596166
+    second: Alienetta_5
+  - first:
+      213: -895496215961899054
+    second: Alienetta_6
+  - first:
+      213: 5013768660961025248
+    second: Alienetta_7
+  - first:
+      213: -6892914684177391498
+    second: Alienetta_8
+  - first:
+      213: -2537133846325342215
+    second: Alienetta_9
+  - first:
+      213: -1635107706108991834
+    second: Alienetta_10
+  - first:
+      213: 183368150285387079
+    second: Alienetta_11
+  - first:
+      213: 2752022653984590946
+    second: Alienetta_12
+  - first:
+      213: -49959258288554365
+    second: Alienetta_13
+  - first:
+      213: 9030536327716259060
+    second: Alienetta_14
+  - first:
+      213: 125512679799224213
+    second: Alienetta_15
+  - first:
+      213: 8729903643458008511
+    second: Alienetta_16
+  - first:
+      213: -9098439056609587596
+    second: Alienetta_17
+  - first:
+      213: -8389428405102048865
+    second: Alienetta_18
+  - first:
+      213: -8591912765070407896
+    second: Alienetta_19
+  - first:
+      213: 5755859528075041258
+    second: Alienetta_20
+  - first:
+      213: 6116733415448947818
+    second: Alienetta_21
+  - first:
+      213: 1706209911970503778
+    second: Alienetta_22
+  - first:
+      213: 6968446601089436581
+    second: Alienetta_23
+  - first:
+      213: -6895584202930991989
+    second: Alienetta_24
+  - first:
+      213: 721649811736900978
+    second: Alienetta_25
+  - first:
+      213: 8822100078439246106
+    second: Alienetta_26
+  - first:
+      213: -3769328696189678728
+    second: Alienetta_27
+  - first:
+      213: -7440138012493633637
+    second: Alienetta_28
+  - first:
+      213: -453985236891872489
+    second: Alienetta_29
+  - first:
+      213: 8812631593298962517
+    second: Alienetta_30
+  - first:
+      213: -5368657455846991181
+    second: Alienetta_31
+  - first:
+      213: -4585978160069338744
+    second: Alienetta_32
+  - first:
+      213: -7542111829197909596
+    second: Alienetta_33
+  - first:
+      213: 1982664290688783051
+    second: Alienetta_34
+  - first:
+      213: 8156346577616821322
+    second: Alienetta_35
+  - first:
+      213: 8345951923116094404
+    second: Alienetta_36
+  - first:
+      213: 256133752883594644
+    second: Alienetta_37
+  - first:
+      213: -8897705599573424470
+    second: Alienetta_38
+  - first:
+      213: 1029640432666271171
+    second: Alienetta_39
+  - first:
+      213: 2725993540832108307
+    second: Alienetta_40
+  - first:
+      213: 816287041305917697
+    second: Alienetta_41
+  - first:
+      213: -2564664273533597860
+    second: Alienetta_42
+  - first:
+      213: -1968534098265790566
+    second: Alienetta_43
+  - first:
+      213: 201953072082736702
+    second: Alienetta_44
+  - first:
+      213: -2650321337361232175
+    second: Alienetta_45
+  - first:
+      213: -3451134417317480098
+    second: Alienetta_46
+  - first:
+      213: 7508827985405160794
+    second: Alienetta_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alienetta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e802e322fc9def0800000000000000
+      internalID: -82807372151484776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf715cbdb8fbe8d0800000000000000
+      internalID: -2815883648198148171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 935
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c8b97756b9c2b0800000000000000
+      internalID: -5563715377818975800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8534f43bf39a2b0f0800000000000000
+      internalID: -1102632867696000168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 935
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9132f55013d570800000000000000
+      internalID: 8490147683845119194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 913
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6035c8380f85a9b30800000000000000
+      internalID: 4294842984673596166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 803
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df62e5afee8293f0800000000000000
+      internalID: -895496215961899054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 839
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec5196780c749540800000000000000
+      internalID: 5013768660961025248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 779
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670688e6d927750a0800000000000000
+      internalID: -6892914684177391498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_9
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 794
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff4826853a4accd0800000000000000
+      internalID: -2537133846325342215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 759
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6aed7543eee49e0800000000000000
+      internalID: -1635107706108991834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 744
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74581e47c547b8200800000000000000
+      internalID: 183368150285387079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 727
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4490e506213620800000000000000
+      internalID: 2752022653984590946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_13
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 718
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ef77cb1528e4ff0800000000000000
+      internalID: -49959258288554365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 710
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c9c8b1f8e25d70800000000000000
+      internalID: 9030536327716259060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 707
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5977d360e19edb100800000000000000
+      internalID: 125512679799224213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 695
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5f3b75c19d62970800000000000000
+      internalID: 8729903643458008511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 680
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ece3432e9dbb180800000000000000
+      internalID: -9098439056609587596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 650
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99025d8053c29b80800000000000000
+      internalID: -8389428405102048865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 650
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82785d0bcd463c880800000000000000
+      internalID: -8591912765070407896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 617
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9d5f3bebbe0ef40800000000000000
+      internalID: 5755859528075041258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 477
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ca89d22a003e450800000000000000
+      internalID: 6116733415448947818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 463
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c904300ecada710800000000000000
+      internalID: 1706209911970503778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 466
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abc6366345e4b060800000000000000
+      internalID: 6968446601089436581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 467
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cc089a3b6fd40a0800000000000000
+      internalID: -6895584202930991989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 458
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753ec82ea0d30a00800000000000000
+      internalID: 721649811736900978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_26
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 443
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192154a7456e6a70800000000000000
+      internalID: 8822100078439246106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 415
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b8de58587a0bbc0800000000000000
+      internalID: -3769328696189678728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_28
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 415
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97af6da5e15fb890800000000000000
+      internalID: -7440138012493633637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_29
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 415
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713d9c515de13b9f0800000000000000
+      internalID: -453985236891872489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 393
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55828f62eb1cc4a70800000000000000
+      internalID: 8812631593298962517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 391
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3badc7ffc72be75b0800000000000000
+      internalID: -5368657455846991181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_32
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 360
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8891e5539255b50c0800000000000000
+      internalID: -4585978160069338744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 354
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1136c4049055790800000000000000
+      internalID: -7542111829197909596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_34
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 252
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc25b53faa6d38b10800000000000000
+      internalID: 1982664290688783051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_35
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 223
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cd2d78ff9213170800000000000000
+      internalID: 8156346577616821322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 167
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3b2d92e07c2d370800000000000000
+      internalID: 8345951923116094404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 181
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4954d9b8a48fd8300800000000000000
+      internalID: 256133752883594644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 181
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa60c6536eff48480800000000000000
+      internalID: -8897705599573424470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd37ba4840a4e00800000000000000
+      internalID: 1029640432666271171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 169
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f9e45beaca4d520800000000000000
+      internalID: 2725993540832108307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 152
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1093bcb3db8045b00800000000000000
+      internalID: 816287041305917697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_42
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 155
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5705ef6e6b786cd0800000000000000
+      internalID: -2564664273533597860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97af98daac5ea4e0800000000000000
+      internalID: -1968534098265790566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_44
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e365ac2cf3b7dc200800000000000000
+      internalID: 201953072082736702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de02f129ca283bd0800000000000000
+      internalID: -2650321337361232175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_46
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59baa7488b1b10d0800000000000000
+      internalID: -3451134417317480098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alienetta_47
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 80
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d269de447b43860800000000000000
+      internalID: 7508827985405160794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alienetta_0: -82807372151484776
+      Alienetta_1: -2815883648198148171
+      Alienetta_10: -1635107706108991834
+      Alienetta_11: 183368150285387079
+      Alienetta_12: 2752022653984590946
+      Alienetta_13: -49959258288554365
+      Alienetta_14: 9030536327716259060
+      Alienetta_15: 125512679799224213
+      Alienetta_16: 8729903643458008511
+      Alienetta_17: -9098439056609587596
+      Alienetta_18: -8389428405102048865
+      Alienetta_19: -8591912765070407896
+      Alienetta_2: -5563715377818975800
+      Alienetta_20: 5755859528075041258
+      Alienetta_21: 6116733415448947818
+      Alienetta_22: 1706209911970503778
+      Alienetta_23: 6968446601089436581
+      Alienetta_24: -6895584202930991989
+      Alienetta_25: 721649811736900978
+      Alienetta_26: 8822100078439246106
+      Alienetta_27: -3769328696189678728
+      Alienetta_28: -7440138012493633637
+      Alienetta_29: -453985236891872489
+      Alienetta_3: -1102632867696000168
+      Alienetta_30: 8812631593298962517
+      Alienetta_31: -5368657455846991181
+      Alienetta_32: -4585978160069338744
+      Alienetta_33: -7542111829197909596
+      Alienetta_34: 1982664290688783051
+      Alienetta_35: 8156346577616821322
+      Alienetta_36: 8345951923116094404
+      Alienetta_37: 256133752883594644
+      Alienetta_38: -8897705599573424470
+      Alienetta_39: 1029640432666271171
+      Alienetta_4: 8490147683845119194
+      Alienetta_40: 2725993540832108307
+      Alienetta_41: 816287041305917697
+      Alienetta_42: -2564664273533597860
+      Alienetta_43: -1968534098265790566
+      Alienetta_44: 201953072082736702
+      Alienetta_45: -2650321337361232175
+      Alienetta_46: -3451134417317480098
+      Alienetta_47: 7508827985405160794
+      Alienetta_5: 4294842984673596166
+      Alienetta_6: -895496215961899054
+      Alienetta_7: 5013768660961025248
+      Alienetta_8: -6892914684177391498
+      Alienetta_9: -2537133846325342215
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
