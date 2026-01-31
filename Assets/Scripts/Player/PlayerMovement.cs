@@ -1,9 +1,11 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 /// <summary>
 /// Player Movement Controller for MASK // LUMIN
 /// Rigidbody2D-based movement with left/right and jump.
 /// Inspector-tunable values. No wall jump, no dash.
+/// Uses new Input System.
 /// </summary>
 public class PlayerMovement : MonoBehaviour
 {
@@ -76,13 +78,19 @@ public class PlayerMovement : MonoBehaviour
     
     private void Update()
     {
-        // Get horizontal input
-        horizontalInput = Input.GetAxisRaw("Horizontal");
-        
-        // Check for jump input (only if grounded)
-        if (Input.GetButtonDown("Jump") && isGrounded)
+        // Get horizontal input using new Input System
+        Keyboard keyboard = Keyboard.current;
+        if (keyboard != null)
         {
-            jumpRequested = true;
+            float left = keyboard.aKey.isPressed || keyboard.leftArrowKey.isPressed ? -1f : 0f;
+            float right = keyboard.dKey.isPressed || keyboard.rightArrowKey.isPressed ? 1f : 0f;
+            horizontalInput = left + right;
+            
+            // Check for jump input (only if grounded)
+            if ((keyboard.spaceKey.wasPressedThisFrame || keyboard.wKey.wasPressedThisFrame || keyboard.upArrowKey.wasPressedThisFrame) && isGrounded)
+            {
+                jumpRequested = true;
+            }
         }
         
         // Flip sprite based on movement direction

@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Events;
+using UnityEngine.InputSystem;
 
 /// <summary>
 /// Game Manager for MASK // LUMIN
@@ -90,14 +91,17 @@ public class GameManager : MonoBehaviour
     
     private void Update()
     {
+        Keyboard keyboard = Keyboard.current;
+        if (keyboard == null) return;
+        
         // Quick restart with R key
-        if (Input.GetKeyDown(KeyCode.R))
+        if (keyboard.rKey.wasPressedThisFrame)
         {
             RestartGame();
         }
         
         // Quit with Escape
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (keyboard.escapeKey.wasPressedThisFrame)
         {
             #if UNITY_EDITOR
             UnityEditor.EditorApplication.isPlaying = false;

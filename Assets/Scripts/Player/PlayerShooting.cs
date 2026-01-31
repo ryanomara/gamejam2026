@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 /// <summary>
 /// Player Shooting System for MASK // LUMIN
@@ -17,12 +18,6 @@ public class PlayerShooting : MonoBehaviour
     [SerializeField, Tooltip("Cooldown between shots")]
     private float fireCooldown = 0.3f;
     
-    [SerializeField, Tooltip("Fire input button")]
-    private KeyCode fireButton = KeyCode.Mouse0;
-    
-    [SerializeField, Tooltip("Alternative fire button")]
-    private KeyCode altFireButton = KeyCode.X;
-    
     // State
     private float lastFireTime;
     private MaskSystem maskSystem;
@@ -39,8 +34,14 @@ public class PlayerShooting : MonoBehaviour
         // Only shoot if Hunter mask
         if (maskSystem == null || !maskSystem.CanShoot) return;
         
-        // Check fire input
-        if (Input.GetKey(fireButton) || Input.GetKey(altFireButton))
+        // Check fire input using new Input System
+        Mouse mouse = Mouse.current;
+        Keyboard keyboard = Keyboard.current;
+        
+        bool firePressed = (mouse != null && mouse.leftButton.isPressed) || 
+                          (keyboard != null && keyboard.xKey.isPressed);
+        
+        if (firePressed)
         {
             TryFire();
         }
